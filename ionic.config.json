@@ -1,0 +1,7 @@
+{
+  "name": "karthagoApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
